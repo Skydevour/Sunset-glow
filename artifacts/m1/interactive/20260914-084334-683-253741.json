@@ -1,0 +1,30 @@
+{
+    "timestampUtc": "2026-09-14T08:43:34.6835385Z",
+    "screenshot": "C:/Users/admin/AppData/LocalLow/DefaultCompany/Sunset Glow\\M1Screenshots\\20260914-084334-683-253741.png",
+    "frame": 253741,
+    "position": {
+        "x": 22.0,
+        "y": 5.891767978668213,
+        "z": 25.0
+    },
+    "rotation": {
+        "x": 0.0,
+        "y": 0.9396926760673523,
+        "z": 0.0,
+        "w": -0.3420201539993286
+    },
+    "viewRotation": {
+        "x": 0.0,
+        "y": 0.9396926760673523,
+        "z": 0.0,
+        "w": -0.3420201539993286
+    },
+    "paused": false,
+    "cursor": "Locked",
+    "cursorVisible": false,
+    "fov": 75.0,
+    "sensitivity": 2.0,
+    "bob": true,
+    "movementInputObserved": true,
+    "mouseLookInputObserved": false
+}

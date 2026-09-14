@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "skinnedVertices": 36762,
+  "maxInfluences": 3,
+  "boneCount": 61,
+  "actions": [
+    "Idle",
+    "Walk"
+  ],
+  "issues": []
+}

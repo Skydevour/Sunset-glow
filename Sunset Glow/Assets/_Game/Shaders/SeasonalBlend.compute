@@ -1,0 +1,12 @@
+#pragma kernel BlendSeason
+Texture2D<float4> _Summer;
+Texture2D<float4> _Winter;
+RWTexture2D<float4> _Result;
+float _Amount;
+[numthreads(8,8,1)]
+void BlendSeason(uint3 id : SV_DispatchThreadID)
+{
+    uint width,height; _Result.GetDimensions(width,height);
+    if(id.x>=width || id.y>=height)return;
+    _Result[id.xy]=lerp(_Summer.Load(int3(id.xy,0)),_Winter.Load(int3(id.xy,0)),_Amount);
+}

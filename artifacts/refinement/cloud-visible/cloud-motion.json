@@ -1,0 +1,172 @@
+{
+    "passed": true,
+    "scope": "Fixed clear weather, fixed camera, 60 real seconds at normal time; pixel differences sample only upper sky (55-90% image height). No season transition.",
+    "differenceUnits": "Mean absolute RGB difference normalized to 0-1",
+    "runtimeErrors": 0,
+    "movingSkyDifference": 0.0439080074429512,
+    "pausedSkyDifference": 0.00010553912579780445,
+    "resumedSkyDifference": 0.011222979053854943,
+    "cloudPhaseFrozen": true,
+    "frames": [
+        {
+            "image": "cloud-00s.png",
+            "realSeconds": 0.2443714141845703,
+            "differenceFromPrevious": 0.0,
+            "differenceFromStart": 0.0,
+            "cloudDisplacement": {
+                "x": 190.389404296875,
+                "y": 117.30109405517578
+            }
+        },
+        {
+            "image": "cloud-05s.png",
+            "realSeconds": 5.500120162963867,
+            "differenceFromPrevious": 0.010557347908616066,
+            "differenceFromStart": 0.010557347908616066,
+            "cloudDisplacement": {
+                "x": 249.533203125,
+                "y": 161.01754760742188
+            }
+        },
+        {
+            "image": "cloud-10s.png",
+            "realSeconds": 10.699615478515625,
+            "differenceFromPrevious": 0.010786105878651142,
+            "differenceFromStart": 0.017969299107789995,
+            "cloudDisplacement": {
+                "x": 307.7279357910156,
+                "y": 206.22035217285157
+            }
+        },
+        {
+            "image": "cloud-15s.png",
+            "realSeconds": 15.86077880859375,
+            "differenceFromPrevious": 0.010413894429802895,
+            "differenceFromStart": 0.02308214269578457,
+            "cloudDisplacement": {
+                "x": 364.5106201171875,
+                "y": 251.70164489746095
+            }
+        },
+        {
+            "image": "cloud-20s.png",
+            "realSeconds": 21.000314712524415,
+            "differenceFromPrevious": 0.010308913886547089,
+            "differenceFromStart": 0.027237704023718835,
+            "cloudDisplacement": {
+                "x": 420.5641174316406,
+                "y": 297.44158935546877
+            }
+        },
+        {
+            "image": "cloud-25s.png",
+            "realSeconds": 26.12456703186035,
+            "differenceFromPrevious": 0.010492827743291855,
+            "differenceFromStart": 0.03164805844426155,
+            "cloudDisplacement": {
+                "x": 475.92889404296877,
+                "y": 343.128662109375
+            }
+        },
+        {
+            "image": "cloud-30s.png",
+            "realSeconds": 31.25089454650879,
+            "differenceFromPrevious": 0.010588069446384907,
+            "differenceFromStart": 0.035327717661857608,
+            "cloudDisplacement": {
+                "x": 531.1009521484375,
+                "y": 388.96453857421877
+            }
+        },
+        {
+            "image": "cloud-35s.png",
+            "realSeconds": 36.379981994628909,
+            "differenceFromPrevious": 0.01055227778851986,
+            "differenceFromStart": 0.03811277076601982,
+            "cloudDisplacement": {
+                "x": 586.24072265625,
+                "y": 434.959716796875
+            }
+        },
+        {
+            "image": "cloud-40s.png",
+            "realSeconds": 41.51221466064453,
+            "differenceFromPrevious": 0.010611504316329956,
+            "differenceFromStart": 0.040195684880018237,
+            "cloudDisplacement": {
+                "x": 641.3326416015625,
+                "y": 481.0269775390625
+            }
+        },
+        {
+            "image": "cloud-45s.png",
+            "realSeconds": 46.636444091796878,
+            "differenceFromPrevious": 0.01109719555824995,
+            "differenceFromStart": 0.042322106659412387,
+            "cloudDisplacement": {
+                "x": 696.3936157226563,
+                "y": 527.135498046875
+            }
+        },
+        {
+            "image": "cloud-50s.png",
+            "realSeconds": 51.77488708496094,
+            "differenceFromPrevious": 0.011737420223653317,
+            "differenceFromStart": 0.04348522797226906,
+            "cloudDisplacement": {
+                "x": 751.3807373046875,
+                "y": 573.2224731445313
+            }
+        },
+        {
+            "image": "cloud-55s.png",
+            "realSeconds": 56.90336608886719,
+            "differenceFromPrevious": 0.011905334889888764,
+            "differenceFromStart": 0.04393594339489937,
+            "cloudDisplacement": {
+                "x": 806.54248046875,
+                "y": 619.4801025390625
+            }
+        },
+        {
+            "image": "cloud-60s.png",
+            "realSeconds": 62.03081512451172,
+            "differenceFromPrevious": 0.011732588522136212,
+            "differenceFromStart": 0.0439080074429512,
+            "cloudDisplacement": {
+                "x": 861.5082397460938,
+                "y": 665.5877075195313
+            }
+        },
+        {
+            "image": "pause-start.png",
+            "realSeconds": 64.16522216796875,
+            "differenceFromPrevious": 0.0023389896377921106,
+            "differenceFromStart": 0.044012315571308139,
+            "cloudDisplacement": {
+                "x": 861.5082397460938,
+                "y": 665.5877075195313
+            }
+        },
+        {
+            "image": "pause-after-5s.png",
+            "realSeconds": 69.287109375,
+            "differenceFromPrevious": 0.00010553912579780445,
+            "differenceFromStart": 0.04401259124279022,
+            "cloudDisplacement": {
+                "x": 861.5082397460938,
+                "y": 665.5877075195313
+            }
+        },
+        {
+            "image": "resume-after-5s.png",
+            "realSeconds": 74.41976165771485,
+            "differenceFromPrevious": 0.011222979053854943,
+            "differenceFromStart": 0.043644018471241,
+            "cloudDisplacement": {
+                "x": 916.52587890625,
+                "y": 711.7478637695313
+            }
+        }
+    ]
+}

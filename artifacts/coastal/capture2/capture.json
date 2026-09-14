@@ -1,0 +1,11 @@
+{
+    "errors": 0,
+    "width": 1920,
+    "height": 1080,
+    "timeScale": 1.0,
+    "unity": "6000.0.23f1c1",
+    "scope": "Art preview only; inspect PNGs. Does not certify world calendar, weather simulation or 48-minute P0.",
+    "transitionPassed": true,
+    "shelterPassed": true,
+    "outdoorSnowPassed": true
+}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ea92cee7aa48a2479054bb0c512dd5b, type: 3}
+  m_Name: GoldenSunset
+  m_EditorClassIdentifier: 
+  displayName: GoldenSunset
+  sunElevation: 9
+  sunAzimuth: 270
+  sunLux: 30000
+  sunTemperature: 5700
+  exposureEV: 10.7
+  cloudDensity: 0.46
+  cloudShape: 0.89
+  cloudErosion: 0.8
+  aerosolDensity: 0.004
+  fogDistance: 2400
+  horizonTint: {r: 1, g: 0.94, b: 0.87, a: 1}
+  zenithTint: {r: 1, g: 1, b: 1, a: 1}
+  snowCoverage: 0
+  snowfallRate: 0
+  windSpeed: 18

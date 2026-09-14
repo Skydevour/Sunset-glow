@@ -1,3 +1,10 @@
 
 Sunset Glow/Library
 Sunset Glow/Logs
+Sunset Glow/Temp/
+Sunset Glow/Obj/
+Builds/
+artifacts/**/build.log
+artifacts/**/player.log
+artifacts/**/compile-attempt*.log
+artifacts/**/*-player.log

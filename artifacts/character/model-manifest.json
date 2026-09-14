@@ -1,0 +1,52 @@
+{
+  "meshes": {
+    "Head": {
+      "vertices": 6824,
+      "triangles": 12654
+    },
+    "Hair": {
+      "vertices": 7144,
+      "triangles": 14032
+    },
+    "Body": {
+      "vertices": 1871,
+      "triangles": 3416
+    },
+    "Clothes": {
+      "vertices": 6512,
+      "triangles": 11100
+    },
+    "Accessories": {
+      "vertices": 852,
+      "triangles": 1568
+    },
+    "HeadAccessories": {
+      "vertices": 13559,
+      "triangles": 26048
+    }
+  },
+  "bones": 61,
+  "materials": [
+    "Skin",
+    "Hair",
+    "BlackCloth",
+    "WhiteCloth",
+    "Eyes",
+    "IrisLight",
+    "IrisDark",
+    "EyeWhite",
+    "Lashes",
+    "Blush"
+  ],
+  "clips": [
+    "Idle",
+    "Walk"
+  ],
+  "height": 1.65,
+  "front": "Blender -Y, FBX -Z forward / Y up",
+  "authored_completion": [
+    "back apron bow",
+    "stockings",
+    "Mary Jane shoes"
+  ]
+}
